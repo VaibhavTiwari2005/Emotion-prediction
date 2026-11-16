@@ -16,7 +16,7 @@
     { label: "Missing home",    emotion: "sadness",  text: "I miss my family so much and the house feels empty without them" },
     { label: "Unfair deadline", emotion: "anger",    text: "I am furious that they changed the deadline again without telling anyone" },
     { label: "Late-night noise",emotion: "fear",     text: "I heard footsteps downstairs and I am too scared to move" },
-    { label: "Surprise visit",  emotion: "surprise", text: "I opened the door and my old friend was standing there, I could not believe it" },
+    { label: "Surprise visit",  emotion: "surprise", text: "I opened the door and felt so surprised to see my friend" },
     { label: "Anniversary",     emotion: "love",     text: "Every day with you makes me feel more grateful and more in love" },
   ];
 
